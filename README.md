@@ -1,0 +1,2 @@
+# compraradar-ai
+proyecto comparador 
